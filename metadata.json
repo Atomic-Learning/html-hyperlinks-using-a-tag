@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "HTML: Hyperlinks using the <a> Tag",
+    "slug": "html-hyperlinks-using-a-tag",
+    "description": "An introduction to including hyperlinks in HTML documents using the <a> tag.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "html"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "html-tags"
     ],
     "related": [
-        "",
-        ""
     ]
 }
