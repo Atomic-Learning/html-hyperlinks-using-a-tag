@@ -10,7 +10,7 @@
     ],
     "duration": 3,
     "prerequisites": [
-        "html-tags"
+        "html-tags-elements"
     ],
     "related": [
         "programming-paths"
